@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629146381060",
+    "project_id": "monster-gang-ab4b5",
+    "storage_bucket": "monster-gang-ab4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629146381060:android:9bf04209b4414cbba4be51",
+        "android_client_info": {
+          "package_name": "monstergang.xyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629146381060-m56qdippt4728k7r77gdl80q5bstk1mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9swaRnbpw1o2cr2GgO3KFDBsly1utspg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629146381060-m56qdippt4728k7r77gdl80q5bstk1mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
